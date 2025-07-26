@@ -5,7 +5,9 @@
 ### [Deploy](https://qr-generator-pi-nine.vercel.app/)
 
 ## 💻 Tutorial
-<!-- Video tutorial will be added here -->
+<a href='https://youtu.be/_aCrOFAlAYM' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/_aCrOFAlAYM/mqdefault.jpg' alt='QR Generator' />
+</a>
 
 ## 📋 Features
 - Generate QR codes
